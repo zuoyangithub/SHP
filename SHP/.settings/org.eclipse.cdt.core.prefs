@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.441603269/LD_LIBRARY_PATH/delimiter=\:
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.441603269/LD_LIBRARY_PATH/operation=replace
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.441603269/LD_LIBRARY_PATH/value=/usr/lib/jvm/java-7-openjdk-i386/jre/lib/i386/client\:/usr/lib/jvm/java-7-openjdk-i386/jre/lib/i386\:/home/zuoyan/workspace/SHP/arm_lib/log4c
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.441603269/LOG4C_RCPATH/delimiter=\:
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.441603269/LOG4C_RCPATH/operation=append
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.441603269/LOG4C_RCPATH/value=/home/zuoyan/workspace/SHP/cfg
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.441603269/append=true
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.441603269/appendContributed=true
