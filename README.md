@@ -3,6 +3,6 @@ SHP
 
 Home Safety Platform
 
-1, SHP -> Eclipse Project.
+1, SHP is a Eclipse Project.
 
-2, var -> LAMP Project.
+2, var is a LAMP Project.
